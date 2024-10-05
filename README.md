@@ -3,6 +3,8 @@
 This project aims to replicate the functionality of the Mooer Tone Capture GTR pedal using machine learning techniques. Specifically, an Autoencoder will be used to capture the tone (timbre) of a target guitar and apply it to another guitar. The Autoencoder will learn to represent and transfer the timbre between different guitar audio inputs.
 
 ## Project Overview
+![Project Overview](images\tone-capture.png)
+
 
 ### Goal
 To develop a model that captures the timbre of a target guitar and applies it to a source guitar, preserving the original notes and structure of the source guitar while transforming its sound to match the timbre of the target guitar.
