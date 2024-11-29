@@ -1,0 +1,11 @@
+data/
+dataset/
+.venv/
+spectrograms/
+preprocessed_data/
+output/
+outputs/
+RaveModelTest/
+teste/
+models
+model
